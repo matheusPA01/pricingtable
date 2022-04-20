@@ -1,6 +1,6 @@
 ## <h1 align="center">Pricing Table</h1>
 
-<p align="center"> Esse é um projeto bem simples para estudar e praticar.</p>
+<p align="center"> Esse é um projeto simples para estudar e praticar.</p>
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-Desafio da rocketseat, para iniciantes praticarem suas habilidades em HTML e CSS aprendidos na trilha discover.
+Desafio da rocketseat para iniciantes praticarem suas habilidades em HTML e CSS aprendidos na trilha discover.
 
 ## 🛠 Tecnologias
 
